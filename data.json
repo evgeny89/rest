@@ -1,27 +1,34 @@
 {
-  "1": {
-    "name": "Processor",
-    "price": "100",
-    "img": "https://unsplash.it/320/240?random1"
-  }, 
-  "2": {
-    "name": "Display",
-    "price": "120",
-    "img": "https://unsplash.it/320/240?random2"
-  },
-  "3": {
-    "name": "Notebook",
-    "price": "1000",
-    "img": "https://unsplash.it/320/240?random3"
-  },
-  "4": {
-    "name": "Mouse",
-    "price": "15",
-    "img": "https://unsplash.it/320/240?random4"
-  },
-  "5": {
-    "name": "Keyboard",
-    "price": "18",
-    "img": "https://unsplash.it/320/240?random5"
-  }
+  "data": [
+    {
+      "id": "1",
+      "name": "Processor",
+      "price": "100",
+      "img": "https://unsplash.it/320/240?random1"
+    }, 
+    {
+      "id": "2",
+      "name": "Display",
+      "price": "120",
+      "img": "https://unsplash.it/320/240?random2"
+    },
+    {
+      "id": "3",
+      "name": "Notebook",
+      "price": "1000",
+      "img": "https://unsplash.it/320/240?random3"
+    },
+    {
+      "id": "4",
+      "name": "Mouse",
+      "price": "15",
+      "img": "https://unsplash.it/320/240?random4"
+    },
+    {
+      "id": "5",
+      "name": "Keyboard",
+      "price": "18",
+      "img": "https://unsplash.it/320/240?random5"
+    }
+  ]
 }
