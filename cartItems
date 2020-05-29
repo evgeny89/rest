@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "4",
+      "name": "Mouse",
+      "price": "15",
+      "img": "https://unsplash.it/320/240?random4"
+    },
+    {
+      "id": "5",
+      "name": "Keyboard",
+      "price": "18",
+      "img": "https://unsplash.it/320/240?random5"
+    }
+  ]
+}
